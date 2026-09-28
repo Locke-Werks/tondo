@@ -165,3 +165,11 @@ is a curved band, since this is that kind of program.
 ## License
 
 GPLv3. See [LICENSE](LICENSE).
+
+<!-- lockewerks-site
+tag: Round Notepad
+- Notepad, rebuilt so that nothing in it is a rectangle
+- Every line is a ring, and the page fills in toward the hub
+- Menus and dialogs are arcs and rings as well
+- Still Notepad underneath: shortcuts, encodings, printing
+-->
